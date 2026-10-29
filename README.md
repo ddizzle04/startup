@@ -25,20 +25,23 @@ After creating their rankings by ordering players out of a pool of NBA players, 
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+Personal Rankings: Users can rearrange a list of NBA players to create their own Top 25.
+Consensus Rankings: The application combines submitted rankings to create an overall community ranking.
+Opinion Report: Users receive an agreement score and see which players they rank higher or lower than the community.
+User Accounts: Users can register, log in, and save their rankings.
+Live Updates: Community rankings update as other users submit their lists.
+Compare Rankings: Users can compare their personal rankings with those of other users.
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - HTML will provide the structure for the website, including player lists, rankings, navigation, forms, and the opinion report.
+- **CSS** - CSS will style the website with a clean, responsive design that works on both desktop and mobile devices. It will also provide visual feedback and simple animations when rankings change.
+- **React** - React will handle interactive features such as moving players up and down, displaying ranking comparisons, and navigating between the ranking editor, community rankings, and opinion report.
+- **Service** - A backend service will provide endpoints for registering, logging in, and logging out users, retrieving NBA player information, submitting personal rankings, and calculating consensus rankings and agreement scores. The application will also call a third-party NBA data API to retrieve player information and display it within the application.
+- **DB/Login** - MongoDB will store user account information, personal rankings, NBA player information, and submitted ranking data used to calculate the community consensus.
+- **WebSocket** - WebSocket will allow the server to send updated consensus rankings to connected users in real time whenever another user submits or modifies their rankings.
 
 ## 🚀 Specification Deliverable
 
