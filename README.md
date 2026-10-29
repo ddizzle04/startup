@@ -19,9 +19,9 @@ Have you ever wondered how your NBA opinions compare to everyone else's? NBA Ran
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](<img width="3013" height="2120" alt="IMG_8178" src="https://github.com/user-attachments/assets/e8b05be1-622c-434b-8808-72f478e48d9a" />)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+After creating their rankings by ordering players out of a pool of NBA players, this is what the resulting page will look like.
 
 ```mermaid
 sequenceDiagram
