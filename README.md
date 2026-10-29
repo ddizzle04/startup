@@ -19,8 +19,7 @@ Have you ever wondered how your NBA opinions compare to everyone else's? NBA Ran
 
 ### Design
 
-![Design image](<img width="3013" height="2120" alt="IMG_8178" src="https://github.com/user-attachments/assets/4a958c3f-a017-4e50-a3d1-08f6fb0936cf" />
-)
+<img width="800" alt="NBA Opinion Report" src="https://github.com/user-attachments/assets/4a958c3f-a017-4e50-a3d1-08f6fb0936cf" />
 
 After creating their rankings by ordering players out of a pool of NBA players, this is what the resulting page will look like.
 
