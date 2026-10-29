@@ -1,8 +1,11 @@
-# Your startup name here
+NBA Ranker: Consensus or Crazy
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+NBA Ranker Consensus Report
+NBA discourse is very opinionated and the nature of the game with its complexity and the difficulty in balancing wins, stats, personalities, narratives, potential, among many other things gives way to a wide array of opinions on how good certain players are.
+NBA Player Ranker is a web application where users can create their own rankings of the top 25 NBA players and see how their opinions compare to the community consensus. Users will be able to rearrange players, save their rankings, and receive a personalized report showing how closely their rankings match the consensus, including which players they rank significantly higher or lower than everyone else.
+The main goal is to create an engaging way for NBA fans to discover how popular or controversial their basketball opinions are compared to other fans.
 
 > [!NOTE]
 > This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
@@ -12,7 +15,7 @@ A brief description of the application here. Lorem ipsum dolor sit amet, consect
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you ever wondered how your NBA opinions compare to everyone else's? NBA Ranker is a web application where basketball fans create their own rankings of the league's best players and discover how closely their opinions align with the community consensus. After submitting a ranking, users receive a personalized report showing their consensus agreement score, biggest disagreements, and most controversial player rankings. In today's hot take centered discourse arena we help put a number to how hot your takes are.
 
 ### Design
 
