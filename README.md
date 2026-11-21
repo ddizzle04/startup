@@ -69,16 +69,16 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
+- [x] **HTML pages** - Created Home, My Rankings, Community, Compare, and About pages.
+- [x] **Proper HTML element usage** - Used header, nav, main, footer, sections, lists, tables, and forms.
+- [x] **Links** - Added navigation between all five pages
+- [x] **Text** - Added descriptions, sample player rankings, and an opinion report.
+- [x] **3rd party API placeholder** - Added a section for NBA player information that will eventually come from an external API.
+- [x] **Images** - Added an NBA player image to the rankings page.
+- [x] **Login placeholder** - Added login and account creation inputs and a current user display.
+- [x] **DB data placeholder** - Added sample community rankings and saved ranking placeholders.
+- [x] **WebSocket placeholder** - Added example live community updates.
 
 ## 🚀 CSS deliverable
 
